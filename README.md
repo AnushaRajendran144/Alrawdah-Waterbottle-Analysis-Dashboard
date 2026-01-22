@@ -24,7 +24,7 @@ This project provides an end-to-end data analysis solution for Alrawdah Springs 
 ## 📷 Dashboard Previews
 
 ### Home Page
-![Dashboard Home Page](Home_Page.png)
+![Dashboard Home Page](Alrawdah_Home.png)
 
 ### Production Analysis
 ![Production Analysis](Production_Analysis.png)
