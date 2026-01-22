@@ -36,4 +36,4 @@ This project provides an end-to-end data analysis solution for Alrawdah Springs 
 ![Operations_Performance](Operations_Performance.png)
 
 ### Insights and Suggestions
-![Insights](Suggestions & Insights.png)
+![Insights](Suggestions_&_Insights.png)
