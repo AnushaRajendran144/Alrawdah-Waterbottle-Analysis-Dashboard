@@ -22,10 +22,15 @@ This project provides an end-to-end data analysis solution for Alrawdah Springs 
 2. **Environmental Control:** Established a correlation between warehouse temperatures exceeding 24°C and increased product damage, suggesting automated cooling to save 5% of monthly stock.
 
 ## 📷 Dashboard Previews
+
 ### Home Page
-[https://raw.githubusercontent.com/username/repo/main/image.png](https://github.com/AnushaRajendran144/Alrawdah-Waterbottle-Analysis-Dashboard/blob/main/Alrawdah_Home.png)
+![Dashboard Home Page](Home_Page.png)
 
 ### Production Analysis
+![Production Analysis](Production_Analysis.png)
 
 ### Sales Intelligence
-![Sales Overview](link-to-your-screenshot)
+![Sales Intelligence](Sales_Overview.png)
+
+### Insights and Suggestions
+![Insights](Suggestions & Insights.png)
