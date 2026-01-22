@@ -32,5 +32,8 @@ This project provides an end-to-end data analysis solution for Alrawdah Springs 
 ### Sales Intelligence
 ![Sales Intelligence](Sales_Overview.png)
 
+### Operations_Performance
+![Operations_Performance](Operations_Performance.png)
+
 ### Insights and Suggestions
 ![Insights](Suggestions & Insights.png)
